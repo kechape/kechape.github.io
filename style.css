@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Kosugi+Maru&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kosugi+Maru&family=M+PLUS+Rounded+1c:wght@300&display=swap');
 header {
   display: flex;
   width: 100%;
@@ -19,5 +20,20 @@ header {
 
 h1
 {
-  font-famliy:'Kosugi Maru'
+  font-family:'Kosugi Maru'
+}
+
+p 
+{
+  font-family: 'M PLUS Rounded 1c';
+}
+
+h2
+{
+    font-family: 'M PLUS Rounded 1c';
+}
+
+a
+{
+    font-family: 'M PLUS Rounded 1c';
 }
