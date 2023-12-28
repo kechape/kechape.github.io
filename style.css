@@ -28,6 +28,14 @@ p
   font-family: 'M PLUS Rounded 1c';
 }
 
+body
+{
+  background-image: url('white_00021.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
 h2
 {
     font-family: 'M PLUS Rounded 1c';
