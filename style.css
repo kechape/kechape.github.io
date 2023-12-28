@@ -39,6 +39,8 @@ body
 h2
 {
     font-family: 'M PLUS Rounded 1c';
+    text-decoration: underline;
+    text-decoration: underline double black;
 }
 
 a
